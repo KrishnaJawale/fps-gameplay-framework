@@ -15,7 +15,7 @@ A first person action game framework built in Unity (C#)
 * Decision Making
   * Enemy behaviour decision making based on field of view and line of sight calculations (customizable)
 * Pathfinding
-  * Enemy pathfinding based navigation to dynamically track player in attack state using NavMesh
+  * Enemy pathfinding based navigation using NavMesh to dynamically track player in chase state
 
 ### Weapon System
 * Modular weapon manager system supporting both player controlled and enemy controlled weapons
